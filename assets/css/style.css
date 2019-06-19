@@ -1,0 +1,53 @@
+
+body {
+
+    font-family: 'Oswald', sans-serif;
+}
+
+.bg-pink {
+    background: #660066;
+
+  }
+
+.mari {
+  margin-bottom: 10%;
+}
+
+  header {
+    background-image: url('../img/mari.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 15rem;
+  }
+
+
+ h4 {
+    padding: 5% 2% 2% 2%;
+
+ }
+
+ .linea {
+    border-top: 2px solid black;
+    width: 10%;
+
+  }
+
+  .linea2 {
+     border-top: 2px solid white;
+     width: 10%;
+
+   }
+
+.jedi {
+    color: #660066;
+}
+
+
+#trabajos{
+    background-color: #660066;
+}
+
+i {
+  text-decoration: none;
+}
