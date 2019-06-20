@@ -18,13 +18,17 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
-    padding-bottom: 15rem;
+    /*padding-bottom: 15rem;*/
   }
 
 
  h4 {
     padding: 5% 2% 2% 2%;
 
+ }
+
+ .distancia-10{
+   padding-top: 15rem;
  }
 
  .linea {
